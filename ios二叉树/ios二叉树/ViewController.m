@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"test add git for study github");
-    NSLog(@"log and reload zjzjzj");
+    NSLog(@"log and reload");
 }
 
 - (void)didReceiveMemoryWarning {
