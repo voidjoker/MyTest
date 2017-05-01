@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"commit in branch subBranch");
     NSLog(@"commit 2 in branch subBranch");
-    NSLog(@"444444444");
+    NSLog(@"zjzjzjzj");
 }
 
 - (void)didReceiveMemoryWarning {
